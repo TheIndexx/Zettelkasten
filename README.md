@@ -1,6 +1,6 @@
 # Quartz
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
+PPPPPPPHost your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
 
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
 2. Customizable and hackable design based on Hugo
