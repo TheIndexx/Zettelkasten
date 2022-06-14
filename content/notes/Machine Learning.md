@@ -11,4 +11,4 @@ TLDR: Use good features for good results
 ### Problemo
 But... it's not that easy. For example, what if you wanted to make an AI identify a car in a photo, but didn't know what features to look for. Looking for wheels, windows, and a "car shape" are all very erratic depending on the angle of the photo and the type of car.
 
-**Solution**: Use ML for that too! (aka [[Representation Learning]])
+**Solution**: Use ML for that too! (aka [Representation Learning](Representation%20Learning.md))
