@@ -1,7 +1,7 @@
 ---
 title: "Auto Encoders"
 tags:
-- example-tag
+- Representation Learning
 enableToc: false # do not show a table of contents on this page
 ---
 # Auto Encoders
