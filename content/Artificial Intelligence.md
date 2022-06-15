@@ -2,7 +2,6 @@
 title: "Artificial Intelligence"
 enableToc: false # do not show a table of contents on this page
 ---
-# Artificial Intelligence
 One of my favorite topics to learn about. The whole concept of machines using the human development of knowledge creates a wonderful connection between biology and technology, 2 unalike fields. There are lots of misconceptions regarding this concept, so the proper definition of AI is simply *the connection between algorithms and datasets to establish patterns.*
 
 **Hierarchy**:
