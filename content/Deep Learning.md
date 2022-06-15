@@ -12,7 +12,7 @@ Say you took a selfie, and we wanted an AI to find you in the picture. To break 
 
 Pixels -> Edges -> Contours -> Objects -> Person
 
-A fantastic example of this is the [mlp](Zettelkasten/mlp.md), which deserves its own page. But TLDR, it maps input values onto output values, and is a math function composed of many smaller functions, aka representations.
+A fantastic example of this is the [Multi-Layer Perceptron](Zettelkasten/Multi-Layer%20Perceptron.md), which deserves its own page. But TLDR, it maps input values onto output values, and is a math function composed of many smaller functions, aka representations.
 
 ## Measuring Depth
 1. The number of sequential instructions needed to evaluate the system architecture (the absolute longest path through the flow chart to get from input to output). [Pasted image 20220613021511](Zettelkasten/Pasted%20image%2020220613021511.png)
@@ -27,9 +27,9 @@ Layers | Method 1 | Method 2
 3 | infers 2nd eye exists | 
 
 ### Quick summary of process to get to Deep Learning
-- **[ai](Zettelkasten/ai.md)** is cool in easy environments, but doesn't get real world rules.
+- **[Artificial Intelligence](Zettelkasten/Artificial%20Intelligence.md)** is cool in easy environments, but doesn't get real world rules.
 	- *Machine Learning* to yield "subjective results"
-- **[machinelearning](Zettelkasten/machinelearning.md)** works well with easy data, but is hard to find good features
+- **[Machine Learning](Zettelkasten/Machine%20Learning.md)** works well with easy data, but is hard to find good features
 	- *Representation Learning* to learn features
-- **[representationlearning](Zettelkasten/representationlearning.md)** leads to too many representations influencing everything, and is hard to find high-level FOV's
+- **[Representation Learning](Zettelkasten/Representation%20Learning.md)** leads to too many representations influencing everything, and is hard to find high-level FOV's
 	- *Deep Learning* to simplify representations
