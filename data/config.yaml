@@ -7,8 +7,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-description:
-  Notes of mine
+description: Zettelkasten, Rishi Cadambe's second brain
 page_title:
   "🤖Destination: Nowhere"
 links:
