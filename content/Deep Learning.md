@@ -5,7 +5,6 @@ tags:
 - Artificial-Intelligence
 enableToc: false # do not show a table of contents on this page
 ---
-# Deep Learning
 Representations in terms of more representations (inception type vibe)
 
 ### Example
@@ -16,7 +15,8 @@ Pixels -> Edges -> Contours -> Objects -> Person
 A fantastic example of this is the [Multi-Layer Perceptron](Multi-Layer%20Perceptron.md), which deserves its own page. But TLDR, it maps input values onto output values, and is a math function composed of many smaller functions, aka representations.
 
 ## Measuring Depth
-1. The number of sequential instructions needed to evaluate the system architecture (the absolute longest path through the flow chart to get from input to output). [Pasted image 20220613021511](Pasted%20image%2020220613021511.png)
+1. The number of sequential instructions needed to evaluate the system architecture (the absolute longest path through the flow chart to get from input to output). 
+![](imgs/Pasted%20image%2020220613021511.png)
 2. Depth of graph describing relationship between **concepts**. It will likely be smaller than the first method. 
 
 Comparison of measuring depth with AI observing face of person with a shadow covering half their face.

@@ -8,6 +8,6 @@ Hello! This is my first, and hopefully only, Zettelkasten. It's a tool I plan to
 With that in mind... welcome! I hope you get the same joy reading this as I do making it.
 
 Some of my interests:
-- [Artificial Intelligence](Artificial%20Intelligence.md), 06/12/2022
+- [Artificial Intelligence](Artificial%20Intelligence.md)
 
 Enjoy!

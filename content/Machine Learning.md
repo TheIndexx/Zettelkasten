@@ -4,7 +4,6 @@ tags:
 - Artificial-Intelligence
 enableToc: false # do not show a table of contents on this page
 ---
-# Machine Learning
 Performance of model ∝ Representation of data
 ### Examples
 - A system that decides the salary of employees
