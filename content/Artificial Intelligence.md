@@ -5,7 +5,7 @@ enableToc: false # do not show a table of contents on this page
 One of my favorite topics to learn about. The whole concept of machines using the human development of knowledge creates a wonderful connection between biology and technology, 2 unalike fields. There are lots of misconceptions regarding this concept, so the proper definition of AI is simply *the connection between algorithms and datasets to establish patterns.*
 
 **Hierarchy**:
-Artificial Intelligence -> [Machine Learning](Machine%20Learning.md) -> [Representation Learning](Representation%20Learning.md)] -> [Deep Learning](Deep%20Learning.md) 
+Artificial Intelligence -> [Machine Learning](Machine%20Learning.md) -> [Representation Learning](Representation%20Learning.md) -> [Deep Learning](Deep%20Learning.md) 
 ## Quick Recap
 Basically, early successes of AI were in very rudimentary settings (IBM AI winning chess championships). But that didn't really mean much, since the rules of those environments were very simply, not like the real world.
 
