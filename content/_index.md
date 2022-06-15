@@ -9,5 +9,6 @@ With that in mind... welcome! I hope you get the same joy reading this as I do m
 
 Some of my interests:
 - [Artificial Intelligence](notes/Artificial%20Intelligence.md)
+- More to come
 
 Enjoy!
