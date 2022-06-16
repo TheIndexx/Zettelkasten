@@ -15,10 +15,10 @@ The size of the house, x value, would go into a "neuron", where the neuron uses 
 Now for the neural network:
 Say we have several inputs, or x values: (1) house size, (2) # of bedrooms, (3) zip code, (4) wealth. 1 and 2 would impact **family size**, 3 would impact **walkability**, 3 and 4 would impact **school quality**. Now given family size, walkability and school quality, each with their own linear regression function, we can estimate the price of the house. In practice, you would just give the AI the 4 input values and get a price, but the magic behind the scenes is what really makes it a neural network!
 
-BUT WAIT. You may say, 'well that ain't deep learning'. You'd be right. Using deep learning, we don't have to explicitly say "Inputs 1 and 2 will correlate with family size", instead the AI can figure out which inputs will correlate to which nodes. So all we really need to do is give the AI a bunch of X and Y values and it will figure out the relationships itself. A cool effect of this is that every input value impacts every node; in tech terms, we would say the 2 layers are densely connected.
+Using deep learning, we don't have to explicitly say "Inputs 1 and 2 will correlate with family size", instead the AI can figure out which inputs will correlate to which nodes. So all we really need to do is give the AI a bunch of X and Y values and it will figure out the relationships itself. A cool effect of this is that every input value impacts every node; in tech terms, we would say the 2 layers are densely connected.
 ![neuralnetworkexample](/imgs/Pasted%20image%2020220615184301.png)
 
-Neural networks are most useful in supervised learning, such as the housing example.
+Neural networks are most useful in [Supervised Learning](notes/Supervised%20Learning.md), such as the housing example.
 
 ### Why are Neural Networks taking off
 Scale. Thanks to new advances in technology, humans have much more data on a variety of things than we did before, and normal algorithms ([Logistic Regression](notes/Logistic%20Regression.md), sum) can only understand so much. Deep Learning algorithms are much better at comprehending big data, and we see the highest levels of performance in large neural networks (many parameters, hidden networks) with large amounts of data.
