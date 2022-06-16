@@ -10,7 +10,7 @@ Performance of model ∝ Representation of data
 	- Would use database with features of employees (hours worked, company title, number of people managed) and their corresponding salaries to create a model
 	- Then uses model to assign salaries to future employees
 	- Bad data (where datapoints do not correlate to features) gives bad results
-- **Logistic Regression**: Uses dataset to create mathematical correlations between features and outcomes
+- **[Logistic Regression](notes/Logistic%20Regression.md)**: Uses dataset to create mathematical correlations between features and outcomes
 
 TLDR: Use good features for good results
 ### Problemo
