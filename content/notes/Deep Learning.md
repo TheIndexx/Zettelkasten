@@ -17,7 +17,7 @@ Important examples:
 
 ## Measuring Depth
 1. The number of sequential instructions needed to evaluate the system architecture (the absolute longest path through the flow chart to get from input to output). 
-![procedureimage](hub/notes/imgs/procedureimage.png)
+![](hub/notes/imgs/methodillustration.png)
 2. Depth of graph describing relationship between **concepts**. It will likely be smaller than the first method. 
 
 Comparison of measuring depth with AI observing face of person with a shadow covering half their face.

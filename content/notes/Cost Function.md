@@ -6,9 +6,6 @@ tags:
 enableToc: false # do not show a table of contents on this page
 ---
 ## Loss Function
-
-^879b2f
-
 When training examples, we need to establish a guideline for error so the learning algorithm knows how far $\hat{y}$, it's predicted value, was from the real $y$.
 
 $L(\hat{y}, y) = \frac{1}{2}(\hat{y} - y)^2$
@@ -25,4 +22,4 @@ This is better for 2 cases.
 # Cost Function
 $J(w,b) = \frac{1}{m} \sum_{i=1}^{m} L(\hat{y}^i, y^i) = -\frac{1}{m} \sum_{i=1}^{m} (y^i \log{\hat{y}^i} + (1 - y^i) \log{1-\hat{y}^i})$
 
-The [Loss Function](#^879b2f) is meant for 1 training example, while the Cost Function is applied to a set of parameters to minimize the Loss Function.
+The Loss Function is meant for 1 training example, while the Cost Function is applied to a set of parameters to minimize the Loss Function.
