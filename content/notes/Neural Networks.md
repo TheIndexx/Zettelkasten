@@ -31,3 +31,7 @@ Things to remember:
 Typically, you might use a *for* loop to iterates through a training set with m examples. 
 
 I, an intellectual, would insult your intelligence, and subsequently use forward propogation step and backward propogation step.
+##### Computation graph
+Computation graphs explains the underlying concept behind forward and back propagation. This concept is fairly intuitive to me, but here's some pictures just in case. 
+![forwardcomputationgraph](notes/imgs/forwardcomputationgraph.png)
+![computingderivatives](notes/imgs/computingderivatives.png)

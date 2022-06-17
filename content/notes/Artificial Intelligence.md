@@ -12,7 +12,6 @@ One of my favorite topics to learn about. The whole concept of machines using th
 	- [Supervised Learning](notes/Supervised%20Learning.md)
 	- [Unsupervised Learning](notes/Unsupervised%20Learning.md)
 - [Multi-Layer Perceptron](notes/Multi-Layer%20Perceptron.md)
-- [Binary classification](notes/Binary%20classification.md)
 - [Logistic Regression](notes/Logistic%20Regression.md) 
 
 **Hierarchy**:

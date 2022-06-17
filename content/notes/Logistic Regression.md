@@ -16,6 +16,6 @@ Parameters: $w \in \mathbb{R}^{n_x}$, $b \in \mathbb{R}$
 Output: $\hat{y} = \sigma(w^Tx + b)$
 
 A $\sigma$, or sigmoid function converts whatever number the $(w^Tx + b)$ is to a probability that y = 1, or a range of numbers from 0 to 1. You can look it up if you're interested but I couldn't care less right now.
-![](/notes/imgs/Pasted%20image%2020220615221550.png)
+![](hub/notes/imgs/sigmoidexplanation.png)
 
-When we implement logistic regression, we want to find optimal values of w and b to get $\hat{y}$ to be as accurate as possible.
+Thus, we want to find optimal values of $w$ and $b$ to get $\hat{y}$ to be as accurate as possible, and we can measure this using a [Cost Function](notes/Cost%20Function.md). One method of training the $w$ parameter is known as [Gradient Descent](notes/Gradient%20Descent.md).
