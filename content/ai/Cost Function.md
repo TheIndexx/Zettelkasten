@@ -10,7 +10,7 @@ When training examples, we need to establish a guideline for error so the learni
 
 $L(\hat{y}, y) = \frac{1}{2}(\hat{y} - y)^2$
 
-This is a standard squared-error loss function, but for the purpose of logistic regression we will use a Loss Function that it more convex and suitable for [Gradient Descent](notes/Gradient%20Descent.md).
+This is a standard squared-error loss function, but for the purpose of logistic regression we will use a Loss Function that it more convex and suitable for [Gradient Descent](ai/Gradient%20Descent.md).
 
 $L(\hat{y}, y) = -(y \log{\hat{y}} + (1 - y) \log{1-\hat{y}})$
 

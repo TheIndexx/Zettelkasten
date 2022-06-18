@@ -5,9 +5,9 @@ tags:
 - Artificial-Intelligence
 enableToc: false # do not show a table of contents on this page
 ---
-Method that uses a set of techniques to let the system automatically find features needed for [Machine Learning](notes/Machine%20Learning.md).
+Method that uses a set of techniques to let the system automatically find features needed for [Machine Learning](ai/Machine%20Learning.md).
 
-**Example**: [Auto Encoders](notes/Auto%20Encoders.md)
+**Example**: [Auto Encoders](ai/Auto%20Encoders.md)
 
 ### Factors of Variation
 When creating algorithms to learn features, look for **Factors of Variation**, or different sets of features (typically not observable) that affect observable quantities. Going back to the AI car finder example, FOV's would be the brightness of the sun, color, wheels, etc.
@@ -15,4 +15,4 @@ When creating algorithms to learn features, look for **Factors of Variation**, o
 - Problem #1: Many FOV's influence every piece of data we can observe (wayyyy too many to be useful at all)
 	- Solution: Disentangle FOV's, keep only the ones we care about
 - Problem #2: How?
-	- Solution: [Deep Learning](notes/Deep%20Learning.md)!!
+	- Solution: [Deep Learning](ai/Deep%20Learning.md)!!
